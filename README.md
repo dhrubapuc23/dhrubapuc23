@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dhrubajyoti Das
+- 👋 Hi, I’m Dhruba
 - 🌱 I’m currently working on Computer Vision tasks using Deep Learning
 - 📫 How to reach me: Email(dhrubajyoti1212@gmail.com) or LinkedIn
 

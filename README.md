@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dhruba
-- 🌱 I’m currently working on Computer Vision tasks using Deep Learning
+- 🌱 I’m currently working on Computer Vision tasks using Deep Learning approaches.
 - 📫 How to reach me: Email(dhrubajyoti1212@gmail.com) or LinkedIn
 
 <!---
